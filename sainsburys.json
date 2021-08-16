@@ -1,0 +1,21 @@
+{
+  "schema-version": "1.0.0",
+  "description": [
+    {
+      "name": "aspire-data-test-python-pandas",
+      "description": "The python-pandas test for supporting the interview toolkit"
+    }
+  ],
+  "maintainers": [
+    {
+      "type": "TEAM",
+      "name": "DataTech"
+    }
+  ],
+  "owners": [
+    {
+      "type": "TEAM",
+      "name": "DataTech"
+    }
+  ]
+}
